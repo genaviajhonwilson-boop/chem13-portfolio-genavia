@@ -1,0 +1,5 @@
+AI Disclosure
+
+For this project, Artificial Intelligence (AI), specifically ChatGPT, was used as a supporting tool in the creation of our chemistry infographic. AI was used to help research and summarize information about the assigned organic compounds, including their chemical identity, structure, properties, uses, risks and safety, fun facts, and relevance to engineering. It was also used to suggest creative headings, organize the information, and develop ideas for the infographic’s visual layout and design.
+
+The final infographic was reviewed, edited, and arranged by me to ensure that the information was appropriate for the activity and that the design matched the required format. AI-generated content was treated as a reference and was not submitted without human review and revision.
